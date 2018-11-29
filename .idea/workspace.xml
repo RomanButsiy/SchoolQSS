@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SchoolQSSArt:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb4820d5-b518-4e32-8004-e1820a77ff58" name="Default" comment="commit" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1163056040">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SchoolQSS" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SchoolQSS.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SchoolQSS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="99" column="18" lean-forward="false" selection-start-line="99" selection-start-column="18" selection-end-line="99" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="39" column="37" lean-forward="false" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataBaseProcessor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DataBaseProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>RedefineData</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/java" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/resources/SchoolQSS.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/dTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/resource_uk.java" />
+        <option value="$PROJECT_DIR$/src/main/java/resource_en.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DataBaseResourseIO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/EncryptDecryptMode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/QSSTableModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MD5CheckSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/getDataBaseResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Teachers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dataError.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CreateStudent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CreateClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CreateSubject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Subject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/getUserData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Marks.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RenameClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Classes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CreateSemester.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GetSemester.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AllMarks.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TestClasses.java" />
+        <option value="[MySQLConnection] CONSOLE - MySQLConnection 1" />
+        <option value="[MySQLConnection] CONSOLE - MySQLConnection" />
+        <option value="$PROJECT_DIR$/src/main/java/CreateAll.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CreateTeacher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SchoolQSSPanel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DataBaseProcessor.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/SchoolQSS.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SchoolQSSArt" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="49" />
+    <option name="y" value="-3" />
+    <option name="width" value="1313" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="false" />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource ProjectPane="false" />
+      <autoscrollFromSource ProjectPane="false" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SchoolQSS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolQSS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolQSS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolQSS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolQSS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolQSS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolQSS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolQSS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HEIGHT" value="0" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+      <module />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolQSS" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="SchoolQSS" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SchoolQSSArt" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb4820d5-b518-4e32-8004-e1820a77ff58" name="Default" comment="" />
+      <created>1532093765254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532093765254</updated>
+      <workItem from="1532094815123" duration="704000" />
+      <workItem from="1532253142099" duration="2211000" />
+      <workItem from="1532255582428" duration="432000" />
+      <workItem from="1532257726128" duration="499000" />
+      <workItem from="1532516764473" duration="464000" />
+      <workItem from="1532639454072" duration="99000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4409000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="49" y="-3" width="1319" height="786" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2690196" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/resource_uk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SchoolQSSPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4284">
+          <caret line="306" column="58" lean-forward="false" selection-start-line="306" selection-start-column="58" selection-end-line="306" selection-end-column="58" />
+          <folding>
+            <marker date="1542909587076" expanded="true" signature="4104:4176" ph=" UPDATE statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="4942:5099" ph=" INSERT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="6733:6744" ph=" DELETE statement" />
+            <marker date="1542909587076" expanded="true" signature="6733:6789" ph=" DELETE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="7174:7232" ph=" DELETE statement (SUBJECT)" />
+            <marker date="1542909587076" expanded="true" signature="7617:7675" ph=" DELETE statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="8002:8060" ph=" DELETE statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="9008:9078" ph=" UPDATE statement (SUBJECT)" />
+            <marker date="1542909587076" expanded="true" signature="9857:9930" ph=" INSERT statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="11444:11500" ph=" DELETE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="11815:11873" ph=" DELETE statement (SUBJECT)" />
+            <marker date="1542909587076" expanded="true" signature="12986:13060" ph=" UPDATE statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="13847:13924" ph=" INSERT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="15395:15451" ph=" DELETE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="15762:15820" ph=" DELETE statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="17065:17162" ph=" INSERT statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="17835:17878" ph=" UPDATE statement (MISSINGVALUE)" />
+            <marker date="1542909587076" expanded="true" signature="17835:17959" ph=" UPDATE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="17835:17960" ph=" UPDATE statement (MISSINGVALUE)" />
+            <marker date="1542909587076" expanded="true" signature="17835:17971" ph=" UPDATE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="18566:18573" ph=" SELECT statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="18566:19100" ph=" SELECT statement (STUDENT, MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="19982:20143" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20027:20068" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20027:20069" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20027:20073" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20027:20143" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20907:21077" ph=" SELECT statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="21657:21741" ph=" SELECT statement (SUBJECT)" />
+            <marker date="1542909587076" expanded="true" signature="21657:21820" ph=" SELECT statement (MISSINGVALUE)" />
+            <marker date="1542909587076" expanded="true" signature="22416:22460" ph=" SELECT statement (STUDENT, MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="22416:22482" ph=" SELECT statement (STUDENT, MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="22416:22583" ph=" SELECT statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="25288:25363" ph=" UPDATE statement (CLASSES)" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/getUserData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SchoolQSS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="658">
+          <caret line="66" column="34" lean-forward="false" selection-start-line="66" selection-start-column="34" selection-end-line="66" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resource_en.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resource_uk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SchoolQSSPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4284">
+          <caret line="306" column="58" lean-forward="false" selection-start-line="306" selection-start-column="58" selection-end-line="306" selection-end-column="58" />
+          <folding>
+            <marker date="1542909587076" expanded="true" signature="4104:4176" ph=" UPDATE statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="4942:5099" ph=" INSERT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="6733:6744" ph=" DELETE statement" />
+            <marker date="1542909587076" expanded="true" signature="6733:6789" ph=" DELETE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="7174:7232" ph=" DELETE statement (SUBJECT)" />
+            <marker date="1542909587076" expanded="true" signature="7617:7675" ph=" DELETE statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="8002:8060" ph=" DELETE statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="9008:9078" ph=" UPDATE statement (SUBJECT)" />
+            <marker date="1542909587076" expanded="true" signature="9857:9930" ph=" INSERT statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="11444:11500" ph=" DELETE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="11815:11873" ph=" DELETE statement (SUBJECT)" />
+            <marker date="1542909587076" expanded="true" signature="12986:13060" ph=" UPDATE statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="13847:13924" ph=" INSERT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="15395:15451" ph=" DELETE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="15762:15820" ph=" DELETE statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="17065:17162" ph=" INSERT statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="17835:17878" ph=" UPDATE statement (MISSINGVALUE)" />
+            <marker date="1542909587076" expanded="true" signature="17835:17959" ph=" UPDATE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="17835:17960" ph=" UPDATE statement (MISSINGVALUE)" />
+            <marker date="1542909587076" expanded="true" signature="17835:17971" ph=" UPDATE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="18566:18573" ph=" SELECT statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="18566:19100" ph=" SELECT statement (STUDENT, MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="19982:20143" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20027:20068" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20027:20069" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20027:20073" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20027:20143" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20907:21077" ph=" SELECT statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="21657:21741" ph=" SELECT statement (SUBJECT)" />
+            <marker date="1542909587076" expanded="true" signature="21657:21820" ph=" SELECT statement (MISSINGVALUE)" />
+            <marker date="1542909587076" expanded="true" signature="22416:22460" ph=" SELECT statement (STUDENT, MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="22416:22482" ph=" SELECT statement (STUDENT, MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="22416:22583" ph=" SELECT statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="25288:25363" ph=" UPDATE statement (CLASSES)" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/getUserData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SchoolQSS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="66" column="34" lean-forward="false" selection-start-line="66" selection-start-column="34" selection-end-line="66" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resource_en.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resource_uk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SchoolQSSPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4284">
+          <caret line="306" column="58" lean-forward="true" selection-start-line="306" selection-start-column="58" selection-end-line="306" selection-end-column="58" />
+          <folding>
+            <marker date="1542909587076" expanded="true" signature="4104:4176" ph=" UPDATE statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="4942:5099" ph=" INSERT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="6733:6744" ph=" DELETE statement" />
+            <marker date="1542909587076" expanded="true" signature="6733:6789" ph=" DELETE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="7174:7232" ph=" DELETE statement (SUBJECT)" />
+            <marker date="1542909587076" expanded="true" signature="7617:7675" ph=" DELETE statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="8002:8060" ph=" DELETE statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="9008:9078" ph=" UPDATE statement (SUBJECT)" />
+            <marker date="1542909587076" expanded="true" signature="9857:9930" ph=" INSERT statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="11444:11500" ph=" DELETE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="11815:11873" ph=" DELETE statement (SUBJECT)" />
+            <marker date="1542909587076" expanded="true" signature="12986:13060" ph=" UPDATE statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="13847:13924" ph=" INSERT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="15395:15451" ph=" DELETE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="15762:15820" ph=" DELETE statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="17065:17162" ph=" INSERT statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="17835:17878" ph=" UPDATE statement (MISSINGVALUE)" />
+            <marker date="1542909587076" expanded="true" signature="17835:17959" ph=" UPDATE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="17835:17960" ph=" UPDATE statement (MISSINGVALUE)" />
+            <marker date="1542909587076" expanded="true" signature="17835:17971" ph=" UPDATE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="18566:18573" ph=" SELECT statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="18566:19100" ph=" SELECT statement (STUDENT, MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="19982:20143" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20027:20068" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20027:20069" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20027:20073" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20027:20143" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20907:21077" ph=" SELECT statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="21657:21741" ph=" SELECT statement (SUBJECT)" />
+            <marker date="1542909587076" expanded="true" signature="21657:21820" ph=" SELECT statement (MISSINGVALUE)" />
+            <marker date="1542909587076" expanded="true" signature="22416:22460" ph=" SELECT statement (STUDENT, MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="22416:22482" ph=" SELECT statement (STUDENT, MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="22416:22583" ph=" SELECT statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="25288:25363" ph=" UPDATE statement (CLASSES)" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/getUserData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SchoolQSS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="66" column="34" lean-forward="true" selection-start-line="66" selection-start-column="34" selection-end-line="66" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resource_en.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resource_uk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SchoolQSSPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4592">
+          <caret line="328" column="100" lean-forward="false" selection-start-line="328" selection-start-column="100" selection-end-line="328" selection-end-column="100" />
+          <folding>
+            <marker date="1542909587076" expanded="true" signature="4104:4176" ph=" UPDATE statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="4942:5099" ph=" INSERT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="6733:6744" ph=" DELETE statement" />
+            <marker date="1542909587076" expanded="true" signature="6733:6789" ph=" DELETE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="7174:7232" ph=" DELETE statement (SUBJECT)" />
+            <marker date="1542909587076" expanded="true" signature="7617:7675" ph=" DELETE statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="8002:8060" ph=" DELETE statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="9008:9078" ph=" UPDATE statement (SUBJECT)" />
+            <marker date="1542909587076" expanded="true" signature="9857:9930" ph=" INSERT statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="11444:11500" ph=" DELETE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="11815:11873" ph=" DELETE statement (SUBJECT)" />
+            <marker date="1542909587076" expanded="true" signature="12986:13060" ph=" UPDATE statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="13847:13924" ph=" INSERT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="15395:15451" ph=" DELETE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="15762:15820" ph=" DELETE statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="17065:17162" ph=" INSERT statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="17835:17878" ph=" UPDATE statement (MISSINGVALUE)" />
+            <marker date="1542909587076" expanded="true" signature="17835:17959" ph=" UPDATE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="17835:17960" ph=" UPDATE statement (MISSINGVALUE)" />
+            <marker date="1542909587076" expanded="true" signature="17835:17971" ph=" UPDATE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="18566:18573" ph=" SELECT statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="18566:19100" ph=" SELECT statement (STUDENT, MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="19982:20143" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20027:20068" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20027:20069" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20027:20073" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20027:20143" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20907:21077" ph=" SELECT statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="21657:21741" ph=" SELECT statement (SUBJECT)" />
+            <marker date="1542909587076" expanded="true" signature="21657:21820" ph=" SELECT statement (MISSINGVALUE)" />
+            <marker date="1542909587076" expanded="true" signature="22416:22460" ph=" SELECT statement (STUDENT, MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="22416:22482" ph=" SELECT statement (STUDENT, MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="22416:22583" ph=" SELECT statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="25288:25363" ph=" UPDATE statement (CLASSES)" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SchoolQSS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreateTeacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="77" column="67" lean-forward="false" selection-start-line="77" selection-start-column="67" selection-end-line="77" selection-end-column="67" />
+          <folding>
+            <element signature="e#1845#2058#0" expanded="false" />
+            <element signature="e#2057#2058#0" expanded="false" />
+            <element signature="e#2100#2304#0" expanded="false" />
+            <element signature="e#2303#2304#0" expanded="false" />
+            <element signature="e#2346#2559#0" expanded="false" />
+            <element signature="e#2558#2559#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SchoolQSSPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5264">
+          <caret line="376" column="100" lean-forward="false" selection-start-line="376" selection-start-column="100" selection-end-line="376" selection-end-column="100" />
+          <folding>
+            <marker date="1542909587076" expanded="true" signature="4104:4176" ph=" UPDATE statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="4942:5099" ph=" INSERT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="6733:6744" ph=" DELETE statement" />
+            <marker date="1542909587076" expanded="true" signature="6733:6789" ph=" DELETE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="7174:7232" ph=" DELETE statement (SUBJECT)" />
+            <marker date="1542909587076" expanded="true" signature="7617:7675" ph=" DELETE statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="8002:8060" ph=" DELETE statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="9008:9078" ph=" UPDATE statement (SUBJECT)" />
+            <marker date="1542909587076" expanded="true" signature="9857:9930" ph=" INSERT statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="11444:11500" ph=" DELETE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="11815:11873" ph=" DELETE statement (SUBJECT)" />
+            <marker date="1542909587076" expanded="true" signature="12986:13060" ph=" UPDATE statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="13847:13924" ph=" INSERT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="15395:15451" ph=" DELETE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="15762:15820" ph=" DELETE statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="17065:17162" ph=" INSERT statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="17835:17878" ph=" UPDATE statement (MISSINGVALUE)" />
+            <marker date="1542909587076" expanded="true" signature="17835:17959" ph=" UPDATE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="17835:17960" ph=" UPDATE statement (MISSINGVALUE)" />
+            <marker date="1542909587076" expanded="true" signature="17835:17971" ph=" UPDATE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="18566:18573" ph=" SELECT statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="18566:19100" ph=" SELECT statement (STUDENT, MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="19982:20143" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20027:20068" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20027:20069" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20027:20073" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20027:20143" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20907:21077" ph=" SELECT statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="21657:21741" ph=" SELECT statement (SUBJECT)" />
+            <marker date="1542909587076" expanded="true" signature="21657:21820" ph=" SELECT statement (MISSINGVALUE)" />
+            <marker date="1542909587076" expanded="true" signature="22416:22460" ph=" SELECT statement (STUDENT, MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="22416:22482" ph=" SELECT statement (STUDENT, MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="22416:22583" ph=" SELECT statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="25288:25363" ph=" UPDATE statement (CLASSES)" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="db://[MySQLConnection] TABLE - SchoolGymnasiumQSS.Classes" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/QSSTableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreateSubject.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreateStudent.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/RenameClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Teachers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TestClasses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="29" column="42" lean-forward="false" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MD5CheckSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/EncryptDecryptMode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="35" column="5" lean-forward="false" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/getDataBaseResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="20" column="70" lean-forward="false" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GetSemester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Marks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="25" column="18" lean-forward="false" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="db://[MySQLConnection] CONSOLE - MySQLConnection" />
+    <entry file="db://[MySQLConnection] CONSOLE - MySQLConnection 1" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/DataBaseResourseIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Classes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreateAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <element signature="e#581#843#0" expanded="false" />
+            <element signature="e#842#843#0" expanded="false" />
+            <element signature="e#1699#1872#0" expanded="false" />
+            <element signature="e#1871#1872#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreateSemester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreateClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreateTeacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="88" column="19" lean-forward="false" selection-start-line="88" selection-start-column="19" selection-end-line="88" selection-end-column="19" />
+          <folding>
+            <element signature="e#1845#2058#0" expanded="false" />
+            <element signature="e#2057#2058#0" expanded="false" />
+            <element signature="e#2100#2304#0" expanded="false" />
+            <element signature="e#2303#2304#0" expanded="false" />
+            <element signature="e#2346#2559#0" expanded="false" />
+            <element signature="e#2558#2559#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AllMarks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resource_uk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resource_en.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/getUserData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SchoolQSSPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="306" column="58" lean-forward="false" selection-start-line="306" selection-start-column="58" selection-end-line="306" selection-end-column="58" />
+          <folding>
+            <marker date="1542909587076" expanded="true" signature="4104:4176" ph=" UPDATE statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="4942:5099" ph=" INSERT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="6733:6744" ph=" DELETE statement" />
+            <marker date="1542909587076" expanded="true" signature="6733:6789" ph=" DELETE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="7174:7232" ph=" DELETE statement (SUBJECT)" />
+            <marker date="1542909587076" expanded="true" signature="7617:7675" ph=" DELETE statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="8002:8060" ph=" DELETE statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="9008:9078" ph=" UPDATE statement (SUBJECT)" />
+            <marker date="1542909587076" expanded="true" signature="9857:9930" ph=" INSERT statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="11444:11500" ph=" DELETE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="11815:11873" ph=" DELETE statement (SUBJECT)" />
+            <marker date="1542909587076" expanded="true" signature="12986:13060" ph=" UPDATE statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="13847:13924" ph=" INSERT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="15395:15451" ph=" DELETE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="15762:15820" ph=" DELETE statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="17065:17162" ph=" INSERT statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="17835:17878" ph=" UPDATE statement (MISSINGVALUE)" />
+            <marker date="1542909587076" expanded="true" signature="17835:17959" ph=" UPDATE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="17835:17960" ph=" UPDATE statement (MISSINGVALUE)" />
+            <marker date="1542909587076" expanded="true" signature="17835:17971" ph=" UPDATE statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="18566:18573" ph=" SELECT statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="18566:19100" ph=" SELECT statement (STUDENT, MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="19982:20143" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20027:20068" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20027:20069" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20027:20073" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20027:20143" ph=" SELECT statement (CLASSES)" />
+            <marker date="1542909587076" expanded="true" signature="20907:21077" ph=" SELECT statement (MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="21657:21741" ph=" SELECT statement (SUBJECT)" />
+            <marker date="1542909587076" expanded="true" signature="21657:21820" ph=" SELECT statement (MISSINGVALUE)" />
+            <marker date="1542909587076" expanded="true" signature="22416:22460" ph=" SELECT statement (STUDENT, MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="22416:22482" ph=" SELECT statement (STUDENT, MARKS)" />
+            <marker date="1542909587076" expanded="true" signature="22416:22583" ph=" SELECT statement (STUDENT)" />
+            <marker date="1542909587076" expanded="true" signature="25288:25363" ph=" UPDATE statement (CLASSES)" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="39" column="37" lean-forward="false" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DataBaseProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SchoolQSS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="99" column="18" lean-forward="false" selection-start-line="99" selection-start-column="18" selection-end-line="99" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>SchoolQSSArt:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SchoolQSSArt</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: mysql:mysql-connector-java:5.1.31</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

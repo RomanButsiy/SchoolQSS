@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SchoolQSSArt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SchoolQSSArt_jar</output-path>
+    <root id="archive" name="SchoolQSSArt.jar">
+      <element id="module-output" name="SchoolQSSArt" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.31/mysql-connector-java-5.1.31.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
