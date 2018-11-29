@@ -35,7 +35,7 @@ public class TestClasses {
                         preparedStatement.setInt(5, 1);
                         preparedStatement.execute();
                         preparedStatement.close();
-                        JOptionPane.showMessageDialog(null, "Семестр та клас успішно створино",
+                        JOptionPane.showMessageDialog(null, "Семестр та клас успішно створено",
                                 "Повідомлення", JOptionPane.INFORMATION_MESSAGE);
                         bool = true;
                     }

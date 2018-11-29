@@ -117,7 +117,7 @@ public class SchoolQSS {
             boolean IsDatabase = false;
             ResultSet rs = statement.executeQuery("SHOW DATABASES;");
             while(rs.next()){
-                if(rs.getString("Database").equals("SchoolGymnasiumQSS")){
+                if(rs.getString("Database").toLowerCase().equals("schoolgymnasiumqss")){
                     IsDatabase = true;
                     break;
                 }
